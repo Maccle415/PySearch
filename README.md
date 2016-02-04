@@ -1,2 +1,2 @@
 # PySearch
-Basic search engine
+Basic search engine implemented with Python. 
